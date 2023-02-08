@@ -1,1 +1,1 @@
-# kz.tutorial
+# termux
